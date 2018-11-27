@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "java220",
+                "projectName": "java220",
+                "workingDirectory": "c:\\Users\\PC\\Documents\\DEV\\IPI_UDEV\\IJVA220\\ipi-java-220-ex",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "java220",
+                "projectName": "java220",
+                "workingDirectory": "c:\\Users\\PC\\Documents\\DEV\\IPI_UDEV\\IJVA220\\ipi-java-220-ex",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
