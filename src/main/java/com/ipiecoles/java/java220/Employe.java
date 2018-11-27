@@ -2,9 +2,6 @@ package com.ipiecoles.java.java220;
 import org.joda.time.LocalDate;
 import java.util.Objects;
 
-/**
- * Created by pjvilloud on 21/09/17.
- */
 public abstract class Employe {
     private String nom;
     private String prenom;
